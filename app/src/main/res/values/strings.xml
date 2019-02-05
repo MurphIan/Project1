@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project#1</string>
+    <string name="weight_of_package">Weight of Package</string>
+    <string name="zero">0</string>
+    <string name="in_ounces">(In Ounces)</string>
+    <string name="base_cost">Base Cost:</string>
+    <string name="added_cost">Added Cost:</string>
+    <string name="total_cost">Total Cost:</string>
+    <string name="currency_format">$</string>
+    <string name="bcost"> 3.00</string>
+</resources>
